@@ -67,36 +67,6 @@ LolaFort/
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/CodeDivaa/LolaFort.git
-```
-
-Move into the project directory:
-
-```bash
-cd LolaFort
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Running the Application
-
-Launch the dashboard:
-
-```bash
-streamlit run app.py
-```
-
 The application will be available at:
 
 ```text
